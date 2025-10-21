@@ -4,9 +4,9 @@
   "description": "Dynamically generated quotes for your github readme",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^2.2.0",
     "dotenv": "^8.2.0",
-    "express": "^4.20.0",
+    "express": "^5.1.0",
     "morgan": "^1.10.1",
     "node-fetch": "^2.6.6",
     "swagger-jsdoc": "^6.2.1",
